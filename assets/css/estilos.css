@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.container .navbar-brand h2 {
+  text-align: right;
+  color: rgba(255,255,255,.55);
+  margin-bottom: 0;
+}
+
 /* Hero Section */
 
 #Hero-Section {
