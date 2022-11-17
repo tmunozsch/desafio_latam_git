@@ -2,6 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Nombre en navbar */
 .container .navbar-brand h2 {
   text-align: right;
   color: rgba(255,255,255,.55);
