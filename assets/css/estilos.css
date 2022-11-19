@@ -12,10 +12,11 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Isla_de_Pascua.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  filter: brightness(90%);
 }
 
 /* Mis trabajos */
